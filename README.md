@@ -1,2 +1,6 @@
-# TuteDudeAssignments
-A collection of programming assignments and solutions for the TuteDude course. Includes Python exercises covering basic operations, logic building, and problem-solving.
+## 🛠️ How to Run the Program
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Tycoon-Learning/TuteDudeAssignments.git
+   cd TuteDudeAssignments
