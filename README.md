@@ -7,6 +7,6 @@
 
 2. Run the Python file:
 
-bash
+ ```bash
 
 python basic_math_operations.py
