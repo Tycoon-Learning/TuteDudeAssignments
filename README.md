@@ -4,3 +4,9 @@
    ```bash
    git clone https://github.com/Tycoon-Learning/TuteDudeAssignments.git
    cd TuteDudeAssignments
+
+2. Run the Python file:
+
+bash
+
+python basic_math_operations.py
