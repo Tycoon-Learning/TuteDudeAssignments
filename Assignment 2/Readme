@@ -1,1 +1,23 @@
+# Python Basic Concepts - Assignment 2
+
+This repository contains two simple Python scripts for Assignment 2 of Module 3: Control Structures in Python .
+
+## Tasks
+
+### Task 1: Even or Odd Checker
+- Takes an integer input from the user.
+- Determines whether the number is even or odd using an if-else statement.
+- Handles invalid (non-integer) input using error handling.
+
+### Task 2: Sum of Integers from 1 to 50
+- Calculates the sum of integers from 1 to 50.
+- Demonstrates two approaches:
+  - Using a `while` loop.
+
+## How to Run
+Make sure you have Python installed, then run the scripts in your terminal:
+
+```bash
+python Odd Even.py
+python Sum of Numbers (Loop).py
 
