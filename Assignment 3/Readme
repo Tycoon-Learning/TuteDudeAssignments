@@ -1,0 +1,16 @@
+# Python Basic Concepts - Assignment 3
+
+This repository contains two simple Python scripts for Assignment 3.
+
+## Tasks
+
+### Task 1: Factorial using loop
+- Takes two user inputs.
+- Returns the calculated factorial.
+
+### Task 2: Using the Math Module
+- Asks the user for a number as input.
+- Returns the following:
+o   Square root of the number
+o   Natural logarithm (log base e) of the number
+o   Sine of the number (in radians)
